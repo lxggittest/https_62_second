@@ -2,8 +2,8 @@ import org.junit.Test;
 
 public class Main {
 
-    @Test
-    public void testHelloWrold() {
+	@Test
+	public void testHelloWrold() {
         System.out.println("HelloWorldbbbbbbbb!");
-    }
+	}
 }
